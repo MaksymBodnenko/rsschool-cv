@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+.wrapper {
+	max-width: 600px;
+	margin: 0 auto;
+	border-radius: 50%;
+
+	display: flex
+}
+
+.info {
+	width: 200px;
+	background-color: #43cee0;
+}
+
+.main-info {
+	width: 400px;
+	background-color: #61df61;
+}
+
+code {}
