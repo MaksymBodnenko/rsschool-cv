@@ -10,26 +10,25 @@
 .wrapper {
 	max-width: 800px;
 	margin: 0 auto;
-	border: 1px solid darkblue;
-	border-radius: 10px;
+	border: 2px solid rgb(3, 3, 26);
 
 	display: flex
 }
 
 .info {
 	padding: 30px 10px 10px 10px;
-	width: 300px;
-	background-color: #43cee0;
+	width: 270px;
+
+	color: white;
+	background-color: #042327;
 }
 
 .main-info {
 	padding: 10px;
-	/* width: 400px; */
-	background-color: #61df61;
+	width: 530px;
+	background-color: #c2dbc2;
 }
 
 img {
-	border-radius: 20%;
+	border-radius: 10px;
 }
-
-code {}
